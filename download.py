@@ -7,7 +7,7 @@ import json
 from os.path import join
 
 import subprocess
-import urllib2
+import urllib.request
 
 __author__ = 'Fisher Yu'
 __email__ = 'fy@cs.princeton.edu'
